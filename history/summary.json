@@ -4,19 +4,19 @@
     "url": "https://gatus.tainton.uk",
     "icon": "https://icons.duckduckgo.com/ip3/gatus.tainton.uk.ico",
     "slug": "gatus",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 3735,
-    "timeDay": 7542,
-    "timeWeek": 3735,
-    "timeMonth": 3735,
-    "timeYear": 3735,
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "95.94%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
+    "time": 3734,
+    "timeDay": 5634,
+    "timeWeek": 3734,
+    "timeMonth": 3734,
+    "timeYear": 3734,
     "dailyMinutesDown": {
-      "2026-04-15": 1
+      "2026-04-15": 59
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$DS1_HOSTNAME",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dedicated-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 125,
-    "timeDay": 91,
-    "timeWeek": 125,
-    "timeMonth": 125,
-    "timeYear": 125,
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "95.98%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
+    "time": 130,
+    "timeDay": 127,
+    "timeWeek": 130,
+    "timeMonth": 130,
+    "timeYear": 130,
     "dailyMinutesDown": {
-      "2026-04-15": 0
+      "2026-04-15": 58
     }
   }
 ]
